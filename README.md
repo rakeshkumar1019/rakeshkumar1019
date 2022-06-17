@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Global Logic
+- 🔭 I’m currently working in Global Logic
 - 🌱 I’m currently learning Machine & Deep Learning 
 - 💬 Ask me about Frontend, Backend, Cloud and Devops
 - 📫 How to reach me: srakeshkumar1019@gmail.com.com
