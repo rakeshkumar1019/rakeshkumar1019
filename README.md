@@ -8,7 +8,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Web%20Developer;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=blue&vCenter=true&size=22"></a>
 </p>
 
-Here are some ideas to get you started:
+<h4>Here are some ideas to get you started:</h4>
+
+[![views](http://hits.dwyl.com/rakeshkumar1019/rakeshkumar1019.svg)](http://hits.dwyl.com/rakeshkumar1019/rakeshkumar1019)
 
 - 🔭 I’m currently working in Global Logic
 - 🌱 I’m currently learning Data Structure & Algorithms  
